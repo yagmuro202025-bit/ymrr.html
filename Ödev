@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title> Yağmur Özkan CV </title>
+    <style> 
+html
+{background-color: beige;}
+
+
+img
+{width: 150px;
+height: 200px;
+float: right;}
+
+
+h2
+{background-color: rgb(224, 240, 240);
+color: brown;
+font-size: x-large;
+font-style: italic;
+margin-bottom: 10px;}
+
+
+p
+{font-size: larger;
+font-style: italic;
+color: black;}
+
+
+.büyük-div
+{background-color: brown; 
+width: 670px;
+height: 160px;
+padding: 20px;}
+
+
+.div1
+{background-color: rgb(207, 225, 225);
+width: 568px;
+height: 30px;}
+
+
+.div2
+{background-color: rgb(207, 225, 225);
+width: 568px;
+height: 30px;
+margin-top: 10px;}
+
+
+.div3
+{background-color: rgb(207, 225, 225);
+width: 568px;
+height: 30px;
+margin-top: 10px;}
+</style>
+</head>
+
+
+
+<body>
+<h2> <hr/> Kişisel Bilgiler <br/> <hr/> </h2>
+    <img src="WhatsApp Image 2025-11-11 at 14.35.15.jpeg"/>
+    <ul> 
+        <li> İsim - Soyisim: Yağmur Özkan  </li>
+        <br/> 
+        <li> Doğum Yeri: Konya / Meram  </li> 
+        <br/>
+        <li> Doğum Tarihi: 17.10.2006  </li>
+        <br/>
+        <li> Uyruğu: TC.  </li>
+        <br/>
+        <li> Ehliyet: B </li>
+       <br/>
+        <li> İletişim Bilgisi: +90 53* *** ** 10 </li>
+    </ul>   
+    <h2> <hr/>  İş Tecrübeleri <br/> <hr/> </h2>
+    <ul> 
+        <li> Sıla Kitabevi (Satış Elemanı)</li>
+        <li> Gülhane Restorant (Kasiyer)</li>
+        <li> Yağmur Yaşam Atölyesi (Muhasebe)</li>
+    </ul>
+    <h2> <hr/> Yabancı Dil Ve Düzeyi <br/> <hr/> </h2>
+    <ol> 
+        <li> İngilizce </li>
+        <ul> 
+            <li> B1 Seviye </li>
+        </ul>
+        <li> Almanca</li>
+        <ul> 
+            <li> A2 Seviye </li>
+        </ul>
+        <li> Arapça </li>
+        <ul> 
+            <li> A1 Seviye </li>
+        </ul>
+    </ol>
+    <h2> <hr/> Bilgisayar Becerileri <br/> <hr/> </h2> 
+    <ol> 
+        <li> <a href="c:\Users\yagmu\OneDrive\Desktop\Ana Sayfa - Canva.lnk"> Canva </a> </li>
+        <li> <a href="c:\Users\yagmu\OneDrive\Desktop\Microsoft Excel.lnk"> Microsoft Excell </a> </li>
+        <li> <a href="c:\Users\yagmu\OneDrive\Desktop\Microsoft PowerPoint.lnk"> Microsoft PowerPoint </a> </li>
+    </ol>
+    <h2> <hr/> Kurs Ve Sertifikalar <br/> <hr/> </h2>
+    <ol> 
+        <li> Mini Oyun Programlama </li>
+        <li> Mizaç Analizi </li>
+        <li> Beden Dili</li>
+        <li> NLP </li>
+    </ol> 
+    <h2> <hr/> Referanslar <br/> <hr/> </h2>
+   <div class="büyük-div"> 
+    <ul> 
+    <div class="div1"> <li> <p> Rabia Uçar : "Yağmur Yaşam Atölyesi"  ------- Kurucu / Müdür -------</p> </li> </div>
+    <div class="div2"> <li> <p> Şaban Tekeli : "Tekeli Havalndırma" ------- Kurucu / Müdür -------</p></li> </div>
+    <div class="div3"> <li> <p> Sude Sergin : "Sergi Mimarlık " ------- Kurucu / Müdür -------</p> </li> </div>
+    </ul>
+   </div>
+
+</body>
+</html>
